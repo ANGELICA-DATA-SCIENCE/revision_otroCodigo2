@@ -4,7 +4,7 @@ formulario.onsubmit = function(e) {
 
   e.prevent();
   
-  var n = formulario.elements[0]
+  var n = formulario.elements[0] //el nombre de las variables deben de ser correspondientes a los que indica
   var e = formulario.elements[1]
   var na = formulario.elements[2]
 
